@@ -1,0 +1,1 @@
+[{"model": "crew.position", "pk": 1, "fields": {"created": "2021-11-12T10:38:24.830", "modified": "2021-11-12T10:38:24.830", "description": "Auxiliar"}}, {"model": "crew.position", "pk": 2, "fields": {"created": "2021-11-12T10:38:38.313", "modified": "2021-11-12T10:38:38.313", "description": "Chofer de Ruta"}}]

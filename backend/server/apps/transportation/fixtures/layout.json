@@ -1,0 +1,32 @@
+[
+  {
+    "model": "transportation.layout",
+    "pk": 1,
+    "fields": {
+      "name": "Mixto 60 Asientos",
+      "description": "2+2, Mixto,Activo, Video (60 Asientos.) ",
+      "created": "2021-11-10 09:52:26.000000",
+      "modified": "2021-11-10 09:52:35.000000"
+    }
+  },
+  {
+    "model": "transportation.layout",
+    "pk": 2,
+    "fields": {
+      "name": "Cama 42",
+      "description": "2+1, Salon Cama,Activo, Video (42 Asientos.) ",
+      "created": "2021-11-10 09:52:26.000000",
+      "modified": "2021-11-10 09:52:35.000000"
+    }
+  },
+  {
+    "model": "transportation.layout",
+    "pk": 3,
+    "fields": {
+      "name": "Bus Cama 43",
+      "description": "2+2, Salon Cama,Activo, Video (43 Asientos.)",
+      "created": "2021-11-10 09:52:26.000000",
+      "modified": "2021-11-10 09:52:35.000000"
+    }
+  }
+]

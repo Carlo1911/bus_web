@@ -1,0 +1,1937 @@
+[
+	{
+		"model": "locations.busstop",
+		"pk": 1,
+		"fields": {
+			"code": "",
+			"name": "Antofagasta",
+			"city_id": 1,
+			"stop_type": "terminal",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 1
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 2,
+		"fields": {
+			"code": "",
+			"name": "La Negra (Control)",
+			"city_id": 1,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 2
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 3,
+		"fields": {
+			"code": "",
+			"name": "Cruce Tal Tal",
+			"city_id": 1,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 3
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 4,
+		"fields": {
+			"code": "",
+			"name": "Cruce Chañaral",
+			"city_id": 1,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 4
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 5,
+		"fields": {
+			"code": "",
+			"name": "Caldera",
+			"city_id": 1,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 5
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 6,
+		"fields": {
+			"code": "",
+			"name": "Andimar Copiapó",
+			"city_id": 2,
+			"stop_type": "terminal",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 6
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 7,
+		"fields": {
+			"code": "",
+			"name": "Copiapó",
+			"city_id": 2,
+			"stop_type": "terminal",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 7
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 8,
+		"fields": {
+			"code": "",
+			"name": "El Palomar",
+			"city_id": 2,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 8
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 9,
+		"fields": {
+			"code": "",
+			"name": "Nantoco",
+			"city_id": 2,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 9
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 10,
+		"fields": {
+			"code": "",
+			"name": "SubEstación Cardones",
+			"city_id": 2,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 10
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 11,
+		"fields": {
+			"code": "",
+			"name": "Vallenar",
+			"city_id": 3,
+			"stop_type": "terminal",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 11
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 12,
+		"fields": {
+			"code": "",
+			"name": "Domeiko",
+			"city_id": 3,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 12
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 13,
+		"fields": {
+			"code": "",
+			"name": "Cachiyuyo",
+			"city_id": 3,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 13
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 14,
+		"fields": {
+			"code": "",
+			"name": "La Silla (La Campana)",
+			"city_id": 3,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 14
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 15,
+		"fields": {
+			"code": "",
+			"name": "Incahuasi",
+			"city_id": 3,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 15
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 16,
+		"fields": {
+			"code": "",
+			"name": "Punta Colorada",
+			"city_id": 3,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 16
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 17,
+		"fields": {
+			"code": "",
+			"name": "El Trapiche",
+			"city_id": 3,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 17
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 18,
+		"fields": {
+			"code": "",
+			"name": "La Higuiera",
+			"city_id": 3,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 18
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 19,
+		"fields": {
+			"code": "",
+			"name": "Caleta de Horno",
+			"city_id": 3,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 19
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 20,
+		"fields": {
+			"code": "",
+			"name": "La Serena",
+			"city_id": 4,
+			"stop_type": "terminal",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 20
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 21,
+		"fields": {
+			"code": "",
+			"name": "KM45",
+			"city_id": 4,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 21
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 22,
+		"fields": {
+			"code": "",
+			"name": "Coquimbo (Santa Isabel)",
+			"city_id": 4,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 22
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 23,
+		"fields": {
+			"code": "",
+			"name": "Totoralillo",
+			"city_id": 4,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 23
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 24,
+		"fields": {
+			"code": "",
+			"name": "Tongoy (Tambillo)",
+			"city_id": 4,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 24
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 25,
+		"fields": {
+			"code": "",
+			"name": "Cruce Tongoy",
+			"city_id": 4,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 25
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 26,
+		"fields": {
+			"code": "",
+			"name": "Quebrada Seca",
+			"city_id": 4,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 26
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 27,
+		"fields": {
+			"code": "",
+			"name": "Cerrillos",
+			"city_id": 4,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 27
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 28,
+		"fields": {
+			"code": "",
+			"name": "Socos",
+			"city_id": 4,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 28
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 29,
+		"fields": {
+			"code": "",
+			"name": "El Teniente",
+			"city_id": 4,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 29
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 30,
+		"fields": {
+			"code": "",
+			"name": "Canela",
+			"city_id": 4,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 30
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 31,
+		"fields": {
+			"code": "",
+			"name": "Mincha Norte",
+			"city_id": 4,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 31
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 32,
+		"fields": {
+			"code": "",
+			"name": "Huentelauquén",
+			"city_id": 4,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 32
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 33,
+		"fields": {
+			"code": "",
+			"name": "Los Vilos",
+			"city_id": 4,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 33
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 34,
+		"fields": {
+			"code": "",
+			"name": "Quilimary",
+			"city_id": 4,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 34
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 35,
+		"fields": {
+			"code": "",
+			"name": "Pichidangui",
+			"city_id": 4,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 35
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 36,
+		"fields": {
+			"code": "",
+			"name": "Los Molles",
+			"city_id": 4,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 36
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 37,
+		"fields": {
+			"code": "",
+			"name": "Guaquén",
+			"city_id": 4,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 37
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 38,
+		"fields": {
+			"code": "",
+			"name": "La Ballena",
+			"city_id": 4,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 38
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 39,
+		"fields": {
+			"code": "",
+			"name": "Longotoma",
+			"city_id": 4,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 39
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 40,
+		"fields": {
+			"code": "",
+			"name": "Ovalle",
+			"city_id": 5,
+			"stop_type": "terminal",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 40
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 41,
+		"fields": {
+			"code": "",
+			"name": "Pullally",
+			"city_id": 5,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 41
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 42,
+		"fields": {
+			"code": "",
+			"name": "La Calera (Soporaval)",
+			"city_id": 5,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 42
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 43,
+		"fields": {
+			"code": "",
+			"name": "Hijuelas",
+			"city_id": 5,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 43
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 44,
+		"fields": {
+			"code": "",
+			"name": "Peaje Las Vegas",
+			"city_id": 5,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 44
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 45,
+		"fields": {
+			"code": "",
+			"name": "Cruce Llay Llay",
+			"city_id": 5,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 45
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 46,
+		"fields": {
+			"code": "",
+			"name": "Montenegro",
+			"city_id": 5,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 46
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 47,
+		"fields": {
+			"code": "",
+			"name": "Rungue (Norte)",
+			"city_id": 5,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 47
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 48,
+		"fields": {
+			"code": "",
+			"name": "Polpaico",
+			"city_id": 5,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 48
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 49,
+		"fields": {
+			"code": "",
+			"name": "El Manzano",
+			"city_id": 5,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 49
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 50,
+		"fields": {
+			"code": "",
+			"name": "Lampa (Peaje)",
+			"city_id": 5,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 50
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 51,
+		"fields": {
+			"code": "",
+			"name": "Santiago - San Borja",
+			"city_id": 6,
+			"stop_type": "terminal",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 51
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 52,
+		"fields": {
+			"code": "",
+			"name": "Sur",
+			"city_id": 6,
+			"stop_type": "terminal",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 52
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 53,
+		"fields": {
+			"code": "",
+			"name": "Colón",
+			"city_id": 6,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 53
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 54,
+		"fields": {
+			"code": "",
+			"name": "Buin",
+			"city_id": 6,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 54
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 55,
+		"fields": {
+			"code": "",
+			"name": "Paine",
+			"city_id": 6,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 55
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 56,
+		"fields": {
+			"code": "",
+			"name": "Champa",
+			"city_id": 6,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 56
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 57,
+		"fields": {
+			"code": "",
+			"name": "Control Angostura",
+			"city_id": 6,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 57
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 58,
+		"fields": {
+			"code": "",
+			"name": "Monticello Grand Casino",
+			"city_id": 6,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 58
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 59,
+		"fields": {
+			"code": "",
+			"name": "Pasarela Monticello",
+			"city_id": 6,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 59
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 60,
+		"fields": {
+			"code": "",
+			"name": "Rancagua - O'Higgins",
+			"city_id": 7,
+			"stop_type": "terminal",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 60
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 61,
+		"fields": {
+			"code": "",
+			"name": "Los Lagartos",
+			"city_id": 7,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 61
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 62,
+		"fields": {
+			"code": "",
+			"name": "San Francisco de Mostazal",
+			"city_id": 7,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 62
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 63,
+		"fields": {
+			"code": "",
+			"name": "Codegua",
+			"city_id": 7,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 63
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 64,
+		"fields": {
+			"code": "",
+			"name": "Graneros",
+			"city_id": 7,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 64
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 65,
+		"fields": {
+			"code": "",
+			"name": "Shopping",
+			"city_id": 7,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 65
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 66,
+		"fields": {
+			"code": "",
+			"name": "Los Alpes",
+			"city_id": 7,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 66
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 67,
+		"fields": {
+			"code": "",
+			"name": "Litueche",
+			"city_id": 7,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 67
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 68,
+		"fields": {
+			"code": "",
+			"name": "Pichilemu",
+			"city_id": 7,
+			"stop_type": "terminal",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 68
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 69,
+		"fields": {
+			"code": "",
+			"name": "Pucón",
+			"city_id": 7,
+			"stop_type": "terminal",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 69
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 70,
+		"fields": {
+			"code": "",
+			"name": "San Fernando",
+			"city_id": 8,
+			"stop_type": "terminal",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 70
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 71,
+		"fields": {
+			"code": "",
+			"name": "Gultro",
+			"city_id": 8,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 71
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 72,
+		"fields": {
+			"code": "",
+			"name": "Los Lirios",
+			"city_id": 8,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 72
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 73,
+		"fields": {
+			"code": "",
+			"name": "Requinoa",
+			"city_id": 8,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 73
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 74,
+		"fields": {
+			"code": "",
+			"name": "Rosario",
+			"city_id": 8,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 74
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 75,
+		"fields": {
+			"code": "",
+			"name": "Rengo",
+			"city_id": 8,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 75
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 76,
+		"fields": {
+			"code": "",
+			"name": "Pelequén",
+			"city_id": 8,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 76
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 77,
+		"fields": {
+			"code": "",
+			"name": "Santa Cruz",
+			"city_id": 9,
+			"stop_type": "terminal",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 77
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 78,
+		"fields": {
+			"code": "",
+			"name": "Manantiales",
+			"city_id": 9,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 78
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 79,
+		"fields": {
+			"code": "",
+			"name": "Placilla",
+			"city_id": 9,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 79
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 80,
+		"fields": {
+			"code": "",
+			"name": "Nancagua 2da (feria)",
+			"city_id": 9,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 80
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 81,
+		"fields": {
+			"code": "",
+			"name": "Nancagua principal",
+			"city_id": 9,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 81
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 82,
+		"fields": {
+			"code": "",
+			"name": "Cunaco",
+			"city_id": 9,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 82
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 83,
+		"fields": {
+			"code": "",
+			"name": "San gregorio",
+			"city_id": 9,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 83
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 84,
+		"fields": {
+			"code": "",
+			"name": "Paniahue",
+			"city_id": 9,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 84
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 85,
+		"fields": {
+			"code": "",
+			"name": "Hospital",
+			"city_id": 9,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 85
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 86,
+		"fields": {
+			"code": "",
+			"name": "Gonzalo Bulnes",
+			"city_id": 9,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 86
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 87,
+		"fields": {
+			"code": "",
+			"name": "Dónde Silva",
+			"city_id": 9,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 87
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 88,
+		"fields": {
+			"code": "",
+			"name": "Curicó",
+			"city_id": 10,
+			"stop_type": "terminal",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 88
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 89,
+		"fields": {
+			"code": "",
+			"name": "Maggi",
+			"city_id": 10,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 89
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 90,
+		"fields": {
+			"code": "",
+			"name": "Tinguiririca",
+			"city_id": 10,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 90
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 91,
+		"fields": {
+			"code": "",
+			"name": "Chimbarongo",
+			"city_id": 10,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 91
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 92,
+		"fields": {
+			"code": "",
+			"name": "Quinta",
+			"city_id": 10,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 92
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 93,
+		"fields": {
+			"code": "",
+			"name": "La Montaña",
+			"city_id": 10,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 93
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 94,
+		"fields": {
+			"code": "",
+			"name": "Teno",
+			"city_id": 10,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 94
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 95,
+		"fields": {
+			"code": "",
+			"name": "Sarmiento",
+			"city_id": 10,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 95
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 96,
+		"fields": {
+			"code": "",
+			"name": "Romeral",
+			"city_id": 10,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 96
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 97,
+		"fields": {
+			"code": "",
+			"name": "Soler",
+			"city_id": 10,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 97
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 98,
+		"fields": {
+			"code": "",
+			"name": "Aguas Negras (Cruce)",
+			"city_id": 10,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 98
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 99,
+		"fields": {
+			"code": "",
+			"name": "Paradero 10",
+			"city_id": 10,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 99
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 100,
+		"fields": {
+			"code": "",
+			"name": "Paradero 9",
+			"city_id": 10,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 100
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 101,
+		"fields": {
+			"code": "",
+			"name": "Paradero 7",
+			"city_id": 10,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 101
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 102,
+		"fields": {
+			"code": "",
+			"name": "Paradero 6",
+			"city_id": 10,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 102
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 103,
+		"fields": {
+			"code": "",
+			"name": "Merino/Alameda",
+			"city_id": 10,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 103
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 104,
+		"fields": {
+			"code": "",
+			"name": "Paradero 5",
+			"city_id": 10,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 104
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 105,
+		"fields": {
+			"code": "",
+			"name": "Paradero 1",
+			"city_id": 10,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 105
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 106,
+		"fields": {
+			"code": "",
+			"name": "Mall",
+			"city_id": 10,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 106
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 107,
+		"fields": {
+			"code": "",
+			"name": "Santa Marta",
+			"city_id": 10,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 107
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 108,
+		"fields": {
+			"code": "",
+			"name": "Yungay",
+			"city_id": 10,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 108
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 109,
+		"fields": {
+			"code": "",
+			"name": "Temuco",
+			"city_id": 11,
+			"stop_type": "terminal",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 109
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 110,
+		"fields": {
+			"code": "",
+			"name": "Victoria",
+			"city_id": 11,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 110
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 111,
+		"fields": {
+			"code": "",
+			"name": "Púa (Peaje)",
+			"city_id": 11,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 111
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 112,
+		"fields": {
+			"code": "",
+			"name": "Galvarino",
+			"city_id": 11,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 112
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 113,
+		"fields": {
+			"code": "",
+			"name": "Perquenco",
+			"city_id": 11,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 113
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 114,
+		"fields": {
+			"code": "",
+			"name": "Lautaro",
+			"city_id": 11,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 114
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 115,
+		"fields": {
+			"code": "",
+			"name": "Pillanlebún",
+			"city_id": 11,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 115
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 116,
+		"fields": {
+			"code": "",
+			"name": "Cajón",
+			"city_id": 11,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 116
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 117,
+		"fields": {
+			"code": "",
+			"name": "Collipulli",
+			"city_id": 11,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 117
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 118,
+		"fields": {
+			"code": "",
+			"name": "Valdivia",
+			"city_id": 12,
+			"stop_type": "terminal",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 118
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 119,
+		"fields": {
+			"code": "",
+			"name": "Freire",
+			"city_id": 12,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 119
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 120,
+		"fields": {
+			"code": "",
+			"name": "Lanco",
+			"city_id": 12,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 120
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 121,
+		"fields": {
+			"code": "",
+			"name": "Pitrufquen",
+			"city_id": 12,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 121
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 122,
+		"fields": {
+			"code": "",
+			"name": "Ciruelos",
+			"city_id": 12,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 122
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 123,
+		"fields": {
+			"code": "",
+			"name": "Rotonda Mariquina",
+			"city_id": 12,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 123
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 124,
+		"fields": {
+			"code": "",
+			"name": "Aeropuerto Pichoy",
+			"city_id": 12,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 124
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 125,
+		"fields": {
+			"code": "",
+			"name": "Villa Callumapu",
+			"city_id": 12,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 125
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 126,
+		"fields": {
+			"code": "",
+			"name": "El Arenal",
+			"city_id": 12,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 126
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 127,
+		"fields": {
+			"code": "",
+			"name": "Copec Rocura",
+			"city_id": 12,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 127
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 128,
+		"fields": {
+			"code": "",
+			"name": "El Parque",
+			"city_id": 12,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 128
+		}
+	},
+	{
+		"model": "locations.busstop",
+		"pk": 129,
+		"fields": {
+			"code": "",
+			"name": "Guata Amarilla",
+			"city_id": 12,
+			"stop_type": "stop",
+			"created": "2021-12-07T12:16:21",
+			"modified": "2021-12-07T12:16:21",
+			"latitude": null,
+			"longitude": null,
+			"order": 129
+		}
+	}
+]

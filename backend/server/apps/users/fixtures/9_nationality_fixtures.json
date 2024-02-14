@@ -1,0 +1,98 @@
+[
+  {
+    "model": "users.nationality",
+    "pk": 1,
+    "fields": {
+      "code": "CHI",
+      "name": "Chile"
+    }
+  },
+  {
+    "model": "users.nationality",
+    "pk": 2,
+    "fields": {
+      "code": "ARG",
+      "name": "Argentina"
+    }
+  },
+  {
+    "model": "users.nationality",
+    "pk": 3,
+    "fields": {
+      "code": "BOL",
+      "name": "Bolivia"
+    }
+  },
+  {
+    "model": "users.nationality",
+    "pk": 4,
+    "fields": {
+      "code": "PER",
+      "name": "Peru"
+    }
+  },
+  {
+    "model": "users.nationality",
+    "pk": 5,
+    "fields": {
+      "code": "COL",
+      "name": "Colombia"
+    }
+  },
+  {
+    "model": "users.nationality",
+    "pk": 6,
+    "fields": {
+      "code": "BRA",
+      "name": "BRASIL"
+    }
+  },
+  {
+    "model": "users.nationality",
+    "pk": 7,
+    "fields": {
+      "code": "PAR",
+      "name": "Paraguay"
+    }
+  },
+  {
+    "model": "users.nationality",
+    "pk": 9,
+    "fields": {
+      "code": "URU",
+      "name": "Uruguay"
+    }
+  },
+  {
+    "model": "users.nationality",
+    "pk": 9,
+    "fields": {
+      "code": "ECU",
+      "name": "Ecuador"
+    }
+  },
+  {
+    "model": "users.nationality",
+    "pk": 10,
+    "fields": {
+      "code": "MEX",
+      "name": "Mexico"
+    }
+  },
+  {
+    "model": "users.nationality",
+    "pk": 11,
+    "fields": {
+      "code": "VEN",
+      "name": "Venezuela"
+    }
+  },
+  {
+    "model": "users.nationality",
+    "pk": 12,
+    "fields": {
+      "code": "OTR",
+      "name": "Otro"
+    }
+  }
+]

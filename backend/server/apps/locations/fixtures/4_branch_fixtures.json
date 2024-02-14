@@ -1,0 +1,275 @@
+[
+  {
+    "model": "locations.branch",
+    "pk": 1,
+    "fields": {
+      "city_id": "1",
+      "code": "",
+      "name": "Terminal Antofagasta - Oficina 13B",
+      "latitude": "-23.5930135",
+      "longitude": "-70.3901624",
+      "created": "2021-12-07T12:16:21",
+      "modified": "2021-12-07T12:16:21"
+    }
+  },
+  {
+    "model": "locations.branch",
+    "pk": 2,
+    "fields": {
+      "city_id": "2",
+      "code": "",
+      "name": "Terminal Andimar Copiapó",
+      "latitude": "-23.5930135",
+      "longitude": "-70.3901624",
+      "created": "2021-12-07T12:16:21",
+      "modified": "2021-12-07T12:16:21"
+    }
+  },
+  {
+    "model": "locations.branch",
+    "pk": 3,
+    "fields": {
+      "city_id": "2",
+      "code": "",
+      "name": "Terminal Copiapó",
+      "latitude": "0",
+      "longitude": "0",
+      "created": "2021-12-07T12:16:21",
+      "modified": "2021-12-07T12:16:21"
+    }
+  },
+  {
+    "model": "locations.branch",
+    "pk": 4,
+    "fields": {
+      "city_id": "3",
+      "code": "",
+      "name": "Terminal Vallenar - Oficina 09",
+      "latitude": "-28.572346",
+      "longitude": "-70.766121",
+      "created": "2021-12-07T12:16:21",
+      "modified": "2021-12-07T12:16:21"
+    }
+  },
+  {
+    "model": "locations.branch",
+    "pk": 5,
+    "fields": {
+      "city_id": "4",
+      "code": "",
+      "name": "Terminal La Serena - Oficina 02",
+      "latitude": "-29.910459",
+      "longitude": "-71.256912",
+      "created": "2021-12-07T12:16:21",
+      "modified": "2021-12-07T12:16:21"
+    }
+  },
+  {
+    "model": "locations.branch",
+    "pk": 6,
+    "fields": {
+      "city_id": "4",
+      "code": "",
+      "name": "Terminal La Serena",
+      "latitude": "-29.910459",
+      "longitude": "-71.256912",
+      "created": "2021-12-07T12:16:21",
+      "modified": "2021-12-07T12:16:21"
+    }
+  },
+  {
+    "model": "locations.branch",
+    "pk": 7,
+    "fields": {
+      "city_id": "5",
+      "code": "",
+      "name": "Terminal Ovalle",
+      "latitude": "-30.6067816",
+      "longitude": "-71.1969041",
+      "created": "2021-12-07T12:16:21",
+      "modified": "2021-12-07T12:16:21"
+    }
+  },
+  {
+    "model": "locations.branch",
+    "pk": 8,
+    "fields": {
+      "city_id": "6",
+      "code": "",
+      "name": "Terminal San Borja - Oficina 37B",
+      "latitude": "-33.4538439",
+      "longitude": "-70.6799818",
+      "created": "2021-12-07T12:16:21",
+      "modified": "2021-12-07T12:16:21"
+    }
+  },
+  {
+    "model": "locations.branch",
+    "pk": 9,
+    "fields": {
+      "city_id": "6",
+      "code": "",
+      "name": "Terminal San Borja - Oficina 49B",
+      "latitude": "-33.4538439",
+      "longitude": "-70.6799818",
+      "created": "2021-12-07T12:16:21",
+      "modified": "2021-12-07T12:16:21"
+    }
+  },
+  {
+    "model": "locations.branch",
+    "pk": 10,
+    "fields": {
+      "city_id": "6",
+      "code": "",
+      "name": "Terminal San Borja - Oficina 65",
+      "latitude": "-33.4538439",
+      "longitude": "-70.6799818",
+      "created": "2021-12-07T12:16:21",
+      "modified": "2021-12-07T12:16:21"
+    }
+  },
+  {
+    "model": "locations.branch",
+    "pk": 11,
+    "fields": {
+      "city_id": "6",
+      "code": "",
+      "name": "Terminal Sur - Oficina 20-21",
+      "latitude": "-33.4541655",
+      "longitude": "-70.6883814",
+      "created": "2021-12-07T12:16:21",
+      "modified": "2021-12-07T12:16:21"
+    }
+  },
+  {
+    "model": "locations.branch",
+    "pk": 12,
+    "fields": {
+      "city_id": "6",
+      "code": "",
+      "name": "Terminal Sur - Oficina 132",
+      "latitude": "-33.4541655",
+      "longitude": "-70.6883814",
+      "created": "2021-12-07T12:16:21",
+      "modified": "2021-12-07T12:16:21"
+    }
+  },
+  {
+    "model": "locations.branch",
+    "pk": 13,
+    "fields": {
+      "city_id": "7",
+      "code": "",
+      "name": "Terminal Sur - Oficina 147-148",
+      "latitude": "-33.4541655",
+      "longitude": "-70.6883814",
+      "created": "2021-12-07T12:16:21",
+      "modified": "2021-12-07T12:16:21"
+    }
+  },
+  {
+    "model": "locations.branch",
+    "pk": 14,
+    "fields": {
+      "city_id": "7",
+      "code": "",
+      "name": "Terminal O'Higgins - Oficina 06",
+      "latitude": "34.1676306",
+      "longitude": "-70.7279278",
+      "created": "2021-12-07T12:16:21",
+      "modified": "2021-12-07T12:16:21"
+    }
+  },
+  {
+    "model": "locations.branch",
+    "pk": 15,
+    "fields": {
+      "city_id": "8",
+      "code": "",
+      "name": "Terminal San Fernando - Oficina 11",
+      "latitude": "-34.5856528",
+      "longitude": "-70.982475",
+      "created": "2021-12-07T12:16:21",
+      "modified": "2021-12-07T12:16:21"
+    }
+  },
+  {
+    "model": "locations.branch",
+    "pk": 16,
+    "fields": {
+      "city_id": "8",
+      "code": "",
+      "name": "Terminal San Fernando",
+      "latitude": "-34.5856528",
+      "longitude": "-70.982475",
+      "created": "2021-12-07T12:16:21",
+      "modified": "2021-12-07T12:16:21"
+    }
+  },
+  {
+    "model": "locations.branch",
+    "pk": 17,
+    "fields": {
+      "city_id": "9",
+      "code": "",
+      "name": "Terminal Santa Cruz",
+      "latitude": "-34.6416985",
+      "longitude": "-71.3714212",
+      "created": "2021-12-07T12:16:21",
+      "modified": "2021-12-07T12:16:21"
+    }
+  },
+  {
+    "model": "locations.branch",
+    "pk": 18,
+    "fields": {
+      "city_id": "10",
+      "code": "",
+      "name": "Terminal Curicó - Oficina 12",
+      "latitude": "-34.9846917",
+      "longitude": "-71.2454917",
+      "created": "2021-12-07T12:16:21",
+      "modified": "2021-12-07T12:16:21"
+    }
+  },
+  {
+    "model": "locations.branch",
+    "pk": 19,
+    "fields": {
+      "city_id": "10",
+      "code": "",
+      "name": "Terminal Curicó",
+      "latitude": "-34.9846917",
+      "longitude": "-71.2454917",
+      "created": "2021-12-07T12:16:21",
+      "modified": "2021-12-07T12:16:21"
+    }
+  },
+  {
+    "model": "locations.branch",
+    "pk": 20,
+    "fields": {
+      "city_id": "11",
+      "code": "",
+      "name": "Rodoviario Temuco - Oficina 25",
+      "latitude": "-38.7159194",
+      "longitude": "-72.5681528",
+      "created": "2021-12-07T12:16:21",
+      "modified": "2021-12-07T12:16:21"
+    }
+  },
+  {
+    "model": "locations.branch",
+    "pk": 21,
+    "fields": {
+      "city_id": "12",
+      "code": "",
+      "name": "Terminal Valdivia - Oficina 127",
+      "latitude": "-39.815341",
+      "longitude": "-73.23552",
+      "created": "2021-12-07T12:16:21",
+      "modified": "2021-12-07T12:16:21"
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "model": "locations.region",
+    "pk": 1,
+    "fields": {
+      "code": "",
+      "name": "Antofagasta",
+      "iso_code": "CL-AN"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 2,
+    "fields": {
+      "code": "",
+      "name": "Atacama",
+      "iso_code": "CL-AT"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 3,
+    "fields": {
+      "code": "",
+      "name": "Coquimbo",
+      "iso_code": "CL-CO"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 4,
+    "fields": {
+      "code": "",
+      "name": "Metropolitana de Santiago",
+      "iso_code": "CL-RM"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 5,
+    "fields": {
+      "code": "",
+      "name": "Libertador General Bernardo O'Higgins",
+      "iso_code": "CL-LI"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 6,
+    "fields": {
+      "code": "",
+      "name": "Maule",
+      "iso_code": "CL-ML"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 7,
+    "fields": {
+      "code": "",
+      "name": "Araucanía",
+      "iso_code": "CL-AR"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 8,
+    "fields": {
+      "code": "",
+      "name": "Los Rios",
+      "iso_code": "CL-LR"
+    }
+  }
+]

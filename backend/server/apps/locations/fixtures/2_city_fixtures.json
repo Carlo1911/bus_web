@@ -1,0 +1,110 @@
+[
+  {
+    "model": "locations.city",
+    "pk": 1,
+    "fields": {
+      "code": "",
+      "region_id": 1,
+      "name": "Antofagasta"
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 2,
+    "fields": {
+      "code": "",
+      "region_id": 2,
+      "name": "Copiapo"
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 3,
+    "fields": {
+      "code": "",
+      "region_id": 2,
+      "name": "Vallenar"
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 4,
+    "fields": {
+      "code": "",
+      "region_id": 3,
+      "name": "La Serena"
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 5,
+    "fields": {
+      "code": "",
+      "region_id": 3,
+      "name": "Ovalle"
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 6,
+    "fields": {
+      "code": "",
+      "region_id": 4,
+      "name": "Santiago"
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 7,
+    "fields": {
+      "code": "",
+      "region_id": 5,
+      "name": "Rancagua"
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 8,
+    "fields": {
+      "code": "",
+      "region_id": 5,
+      "name": "San Fernando"
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 9,
+    "fields": {
+      "code": "",
+      "region_id": 5,
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 10,
+    "fields": {
+      "code": "",
+      "region_id": 6,
+      "name": "Curicó"
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 11,
+    "fields": {
+      "code": "",
+      "region_id": 7,
+      "name": "Temuco"
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 12,
+    "fields": {
+      "code": "",
+      "region_id": 8,
+      "name": "Valdivia"
+    }
+  }
+]

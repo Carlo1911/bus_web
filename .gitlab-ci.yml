@@ -1,0 +1,64 @@
+image: python:3.10
+
+stages:
+  - lint
+  - test
+
+variables:
+  TZ: "America/Santiago"
+
+
+before_script:
+  - pip install -r backend/requirements/development.txt
+
+workflow:
+  rules:
+    - if: $CI_MERGE_REQUEST_ID
+      when: never
+    - when: always
+
+pylint:
+  tags:
+    - andimar
+    - docker
+    - qa
+    - shared
+  stage: lint
+  script:
+    - pylint backend/server --disable=no-name-in-module,import-error,fixme --reports=n --load-plugins=pylint_django --rcfile=./backend/.pylintrc --django-settings-module=server.settings.dev
+
+  variables:
+    SECRET_KEY: "77f1f1bc-788c-11eb-9439"
+    SENDGRID_API_KEY: "SENDGRID_API_KEY"
+
+pytest:
+  tags:
+    - andimar
+    - docker
+    - qa
+    - shared
+  stage: test
+  services:
+    - mysql:5.7
+    - redis
+
+  variables:
+    MYSQL_DATABASE: "db_server"
+    MYSQL_ROOT_PASSWORD: "S3rverP@ssw0rd123"
+    MYSQL_PORT: "3306"
+    MYSQL_HOST: "mysql"
+    MYSQL_USER: "server_user"
+    MYSQL_PASSWORD: "S3rverP@ssw0rd123"
+    SECRET_KEY: "77f1f1bc-788c-11eb-9439-0242ac130002"
+    REDIS_PORT: "6379"
+    PYTHONPATH: /builds/linets/ecommerce/andimar/backend/backend/
+    DJANGO_SETTINGS_MODULE: "server.settings.dev"
+    SENDGRID_API_KEY: "SENDGRID_API_KEY"
+
+  script:
+    - apt-get update && apt-get install -y git curl libmcrypt-dev default-mysql-client
+    - mysql --version
+    - sleep 20
+    - echo "GRANT ALL on *.* to '${MYSQL_USER}';"| mysql -u root --password="${MYSQL_ROOT_PASSWORD}" -h mysql
+    - pytest --cov-config=.coveragerc --cov=backend/server --cov-fail-under=75 --cov-report=xml
+

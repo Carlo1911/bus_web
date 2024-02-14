@@ -1,0 +1,95 @@
+version: "3.8"
+
+services:
+  web: &web
+    build:
+      context: .
+      dockerfile: ./compose/development/Dockerfile
+    restart: unless-stopped
+    command: uvicorn server.asgi:application --host 0.0.0.0 --reload
+    depends_on:
+      - db
+      - redis
+      - mongodb
+    volumes:
+      - ./backend:/home/server:z
+      - static_volume:/home/server/static
+      - media_volume:/home/server/media
+    ports:
+      - "8000:8000"
+    env_file:
+      - .envs/development/web.env
+      - .envs/development/db.env
+      - .envs/development/rabbitmq.env
+    networks:
+      - project-network
+
+  worker:
+    <<: *web
+    command: celery -A server worker -B -l info --loglevel=info
+    depends_on:
+      - mongodb
+      - rabbit-mq
+      - db
+    ports: [ ]
+    networks:
+      - project-network
+
+  db:
+    image: mysql:5.7
+    platform: linux/amd64
+    ports:
+      - "3306:3306"
+    env_file:
+      - .envs/development/db.env
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./db:/backup
+    networks:
+      - project-network
+
+  redis:
+    image: redis:6.2.6-alpine
+    networks:
+      - project-network
+
+  rabbit-mq:
+    image: rabbitmq:3.9.11-management
+    env_file:
+      - .envs/development/rabbitmq.env
+    networks:
+      - project-network
+
+  mongodb:
+    image : mongo:latest
+    volumes:
+    - mongo_data:/data/db
+    ports:
+    - 27017:27017
+    restart: unless-stopped
+    env_file:
+      - .envs/development/mongo.env
+    networks:
+      - project-network
+
+  mongo-express:
+    image: mongo-express:latest
+    restart: unless-stopped
+    links:
+      - mongodb
+    ports:
+      - 8081:8081
+    env_file:
+      - .envs/development/mongo.env
+    networks:
+      - project-network
+
+networks:
+  project-network:
+    name: andimar-network
+
+volumes:
+  mysql_data: { }
+  static_volume: { }
+  media_volume: { }
+  mongo_data: {}

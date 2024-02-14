@@ -1,0 +1,1210 @@
+[
+  {
+    "model": "transportation.component_floor",
+    "pk": 1,
+    "fields": {
+      "component_id": 1,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 2,
+    "fields": {
+      "component_id": 2,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 3,
+    "fields": {
+      "component_id": 3,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 4,
+    "fields": {
+      "component_id": 4,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 5,
+    "fields": {
+      "component_id": 5,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 6,
+    "fields": {
+      "component_id": 6,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 7,
+    "fields": {
+      "component_id": 7,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 8,
+    "fields": {
+      "component_id": 8,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 9,
+    "fields": {
+      "component_id": 9,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 10,
+    "fields": {
+      "component_id": 10,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 11,
+    "fields": {
+      "component_id": 11,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 12,
+    "fields": {
+      "component_id": 12,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 13,
+    "fields": {
+      "component_id": 13,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 14,
+    "fields": {
+      "component_id": 14,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 15,
+    "fields": {
+      "component_id": 15,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 16,
+    "fields": {
+      "component_id": 16,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 17,
+    "fields": {
+      "component_id": 17,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 18,
+    "fields": {
+      "component_id": 18,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 19,
+    "fields": {
+      "component_id": 19,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 20,
+    "fields": {
+      "component_id": 20,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 21,
+    "fields": {
+      "component_id": 21,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 22,
+    "fields": {
+      "component_id": 22,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 23,
+    "fields": {
+      "component_id": 23,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 24,
+    "fields": {
+      "component_id": 24,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 25,
+    "fields": {
+      "component_id": 25,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 26,
+    "fields": {
+      "component_id": 26,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 27,
+    "fields": {
+      "component_id": 27,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 28,
+    "fields": {
+      "component_id": 28,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 29,
+    "fields": {
+      "component_id": 29,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 30,
+    "fields": {
+      "component_id": 30,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 31,
+    "fields": {
+      "component_id": 31,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 32,
+    "fields": {
+      "component_id": 32,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 33,
+    "fields": {
+      "component_id": 33,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 34,
+    "fields": {
+      "component_id": 34,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 35,
+    "fields": {
+      "component_id": 35,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 36,
+    "fields": {
+      "component_id": 36,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 37,
+    "fields": {
+      "component_id": 37,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 38,
+    "fields": {
+      "component_id": 38,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 39,
+    "fields": {
+      "component_id": 39,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 40,
+    "fields": {
+      "component_id": 40,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 41,
+    "fields": {
+      "component_id": 41,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 42,
+    "fields": {
+      "component_id": 42,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 43,
+    "fields": {
+      "component_id": 43,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 44,
+    "fields": {
+      "component_id": 44,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 45,
+    "fields": {
+      "component_id": 45,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 46,
+    "fields": {
+      "component_id": 46,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 47,
+    "fields": {
+      "component_id": 47,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 48,
+    "fields": {
+      "component_id": 48,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 49,
+    "fields": {
+      "component_id": 49,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 50,
+    "fields": {
+      "component_id": 50,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 51,
+    "fields": {
+      "component_id": 51,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 52,
+    "fields": {
+      "component_id": 52,
+      "floor_id": 2
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 53,
+    "fields": {
+      "component_id": 53,
+      "floor_id": 1
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 54,
+    "fields": {
+      "component_id": 54,
+      "floor_id": 1
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 55,
+    "fields": {
+      "component_id": 55,
+      "floor_id": 1
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 56,
+    "fields": {
+      "component_id": 56,
+      "floor_id": 1
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 57,
+    "fields": {
+      "component_id": 57,
+      "floor_id": 1
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 58,
+    "fields": {
+      "component_id": 58,
+      "floor_id": 1
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 59,
+    "fields": {
+      "component_id": 59,
+      "floor_id": 1
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 60,
+    "fields": {
+      "component_id": 60,
+      "floor_id": 1
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 61,
+    "fields": {
+      "component_id": 61,
+      "floor_id": 1
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 62,
+    "fields": {
+      "component_id": 62,
+      "floor_id": 1
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 63,
+    "fields": {
+      "component_id": 63,
+      "floor_id": 1
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 64,
+    "fields": {
+      "component_id": 64,
+      "floor_id": 1
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 65,
+    "fields": {
+      "component_id": 65,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 66,
+    "fields": {
+      "component_id": 66,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 67,
+    "fields": {
+      "component_id": 67,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 68,
+    "fields": {
+      "component_id": 68,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 69,
+    "fields": {
+      "component_id": 69,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 70,
+    "fields": {
+      "component_id": 70,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 71,
+    "fields": {
+      "component_id": 71,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 72,
+    "fields": {
+      "component_id": 72,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 73,
+    "fields": {
+      "component_id": 73,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 74,
+    "fields": {
+      "component_id": 74,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 75,
+    "fields": {
+      "component_id": 75,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 76,
+    "fields": {
+      "component_id": 76,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 77,
+    "fields": {
+      "component_id": 77,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 78,
+    "fields": {
+      "component_id": 78,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 79,
+    "fields": {
+      "component_id": 79,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 80,
+    "fields": {
+      "component_id": 80,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 81,
+    "fields": {
+      "component_id": 81,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 82,
+    "fields": {
+      "component_id": 82,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 83,
+    "fields": {
+      "component_id": 83,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 84,
+    "fields": {
+      "component_id": 84,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 85,
+    "fields": {
+      "component_id": 85,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 86,
+    "fields": {
+      "component_id": 86,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 87,
+    "fields": {
+      "component_id": 87,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 88,
+    "fields": {
+      "component_id": 88,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 89,
+    "fields": {
+      "component_id": 89,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 90,
+    "fields": {
+      "component_id": 90,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 91,
+    "fields": {
+      "component_id": 91,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 92,
+    "fields": {
+      "component_id": 92,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 93,
+    "fields": {
+      "component_id": 93,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 94,
+    "fields": {
+      "component_id": 94,
+      "floor_id": 4
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 95,
+    "fields": {
+      "component_id": 95,
+      "floor_id": 3
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 96,
+    "fields": {
+      "component_id": 96,
+      "floor_id": 3
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 97,
+    "fields": {
+      "component_id": 97,
+      "floor_id": 3
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 98,
+    "fields": {
+      "component_id": 98,
+      "floor_id": 3
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 99,
+    "fields": {
+      "component_id": 99,
+      "floor_id": 3
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 100,
+    "fields": {
+      "component_id": 100,
+      "floor_id": 3
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 101,
+    "fields": {
+      "component_id": 101,
+      "floor_id": 3
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 102,
+    "fields": {
+      "component_id": 102,
+      "floor_id": 3
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 103,
+    "fields": {
+      "component_id": 103,
+      "floor_id": 3
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 104,
+    "fields": {
+      "component_id": 104,
+      "floor_id": 3
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 105,
+    "fields": {
+      "component_id": 105,
+      "floor_id": 3
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 106,
+    "fields": {
+      "component_id": 106,
+      "floor_id": 3
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 107,
+    "fields": {
+      "component_id": 107,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 108,
+    "fields": {
+      "component_id": 108,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 109,
+    "fields": {
+      "component_id": 109,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 110,
+    "fields": {
+      "component_id": 110,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 111,
+    "fields": {
+      "component_id": 111,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 112,
+    "fields": {
+      "component_id": 112,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 113,
+    "fields": {
+      "component_id": 113,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 114,
+    "fields": {
+      "component_id": 114,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 115,
+    "fields": {
+      "component_id": 115,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 116,
+    "fields": {
+      "component_id": 116,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 117,
+    "fields": {
+      "component_id": 117,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 118,
+    "fields": {
+      "component_id": 118,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 119,
+    "fields": {
+      "component_id": 119,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 120,
+    "fields": {
+      "component_id": 120,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 121,
+    "fields": {
+      "component_id": 121,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 122,
+    "fields": {
+      "component_id": 122,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 123,
+    "fields": {
+      "component_id": 123,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 124,
+    "fields": {
+      "component_id": 124,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 125,
+    "fields": {
+      "component_id": 125,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 126,
+    "fields": {
+      "component_id": 126,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 127,
+    "fields": {
+      "component_id": 127,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 128,
+    "fields": {
+      "component_id": 128,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 129,
+    "fields": {
+      "component_id": 129,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 130,
+    "fields": {
+      "component_id": 130,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 131,
+    "fields": {
+      "component_id": 131,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 132,
+    "fields": {
+      "component_id": 132,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 133,
+    "fields": {
+      "component_id": 133,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 134,
+    "fields": {
+      "component_id": 134,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 135,
+    "fields": {
+      "component_id": 135,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 136,
+    "fields": {
+      "component_id": 136,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 137,
+    "fields": {
+      "component_id": 137,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 138,
+    "fields": {
+      "component_id": 138,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 139,
+    "fields": {
+      "component_id": 139,
+      "floor_id": 6
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 140,
+    "fields": {
+      "component_id": 140,
+      "floor_id": 5
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 141,
+    "fields": {
+      "component_id": 141,
+      "floor_id": 5
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 142,
+    "fields": {
+      "component_id": 142,
+      "floor_id": 5
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 143,
+    "fields": {
+      "component_id": 143,
+      "floor_id": 5
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 144,
+    "fields": {
+      "component_id": 144,
+      "floor_id": 5
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 145,
+    "fields": {
+      "component_id": 145,
+      "floor_id": 5
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 146,
+    "fields": {
+      "component_id": 146,
+      "floor_id": 5
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 147,
+    "fields": {
+      "component_id": 147,
+      "floor_id": 5
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 148,
+    "fields": {
+      "component_id": 148,
+      "floor_id": 5
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 149,
+    "fields": {
+      "component_id": 149,
+      "floor_id": 5
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 150,
+    "fields": {
+      "component_id": 150,
+      "floor_id": 5
+    }
+  },
+  {
+    "model": "transportation.component_floor",
+    "pk": 151,
+    "fields": {
+      "component_id": 151,
+      "floor_id": 5
+    }
+  }
+]

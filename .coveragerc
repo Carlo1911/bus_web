@@ -1,0 +1,10 @@
+[run]
+omit =
+  */migrations/*
+  */tests/*
+  */settings/*
+  */templates/*
+  backend/server/celery.py
+  backend/server/asgi.py
+  backend/server/wsgi.py
+  templates

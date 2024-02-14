@@ -1,0 +1,1965 @@
+[
+    {
+        "model": "transportation.component",
+        "pk": 1,
+        "fields": {
+            "position_x": 0,
+            "position_y": 0,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 2,
+        "fields": {
+            "position_x": 2,
+            "position_y": 0,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 3,
+        "fields": {
+            "position_x": 8,
+            "position_y": 0,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 4,
+        "fields": {
+            "position_x": 6,
+            "position_y": 0,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 5,
+        "fields": {
+            "position_x": 0,
+            "position_y": 2,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 6,
+        "fields": {
+            "position_x": 2,
+            "position_y": 2,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 7,
+        "fields": {
+            "position_x": 8,
+            "position_y": 2,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 8,
+        "fields": {
+            "position_x": 6,
+            "position_y": 2,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 9,
+        "fields": {
+            "position_x": 0,
+            "position_y": 4,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 10,
+        "fields": {
+            "position_x": 2,
+            "position_y": 4,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 11,
+        "fields": {
+            "position_x": 0,
+            "position_y": 6,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 12,
+        "fields": {
+            "position_x": 6,
+            "position_y": 4,
+            "width": 2,
+            "length": 2,
+            "kind": "space",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 13,
+        "fields": {
+            "position_x": 8,
+            "position_y": 4,
+            "width": 2,
+            "length": 2,
+            "kind": "space",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 14,
+        "fields": {
+            "position_x": 6,
+            "position_y": 6,
+            "width": 2,
+            "length": 2,
+            "kind": "space",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 15,
+        "fields": {
+            "position_x": 8,
+            "position_y": 6,
+            "width": 2,
+            "length": 2,
+            "kind": "space",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 16,
+        "fields": {
+            "position_x": 2,
+            "position_y": 6,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 17,
+        "fields": {
+            "position_x": 0,
+            "position_y": 8,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 18,
+        "fields": {
+            "position_x": 2,
+            "position_y": 8,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 19,
+        "fields": {
+            "position_x": 8,
+            "position_y": 8,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 20,
+        "fields": {
+            "position_x": 6,
+            "position_y": 8,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 21,
+        "fields": {
+            "position_x": 0,
+            "position_y": 10,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 22,
+        "fields": {
+            "position_x": 2,
+            "position_y": 10,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 23,
+        "fields": {
+            "position_x": 8,
+            "position_y": 10,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 24,
+        "fields": {
+            "position_x": 6,
+            "position_y": 10,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 25,
+        "fields": {
+            "position_x": 0,
+            "position_y": 12,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 26,
+        "fields": {
+            "position_x": 2,
+            "position_y": 12,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 27,
+        "fields": {
+            "position_x": 8,
+            "position_y": 12,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 28,
+        "fields": {
+            "position_x": 6,
+            "position_y": 12,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 29,
+        "fields": {
+            "position_x": 0,
+            "position_y": 14,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 30,
+        "fields": {
+            "position_x": 2,
+            "position_y": 14,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 31,
+        "fields": {
+            "position_x": 8,
+            "position_y": 14,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 32,
+        "fields": {
+            "position_x": 6,
+            "position_y": 14,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 33,
+        "fields": {
+            "position_x": 0,
+            "position_y": 16,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 34,
+        "fields": {
+            "position_x": 2,
+            "position_y": 16,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 35,
+        "fields": {
+            "position_x": 8,
+            "position_y": 16,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 36,
+        "fields": {
+            "position_x": 6,
+            "position_y": 16,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 37,
+        "fields": {
+            "position_x": 0,
+            "position_y": 18,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 38,
+        "fields": {
+            "position_x": 2,
+            "position_y": 18,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 39,
+        "fields": {
+            "position_x": 8,
+            "position_y": 18,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 40,
+        "fields": {
+            "position_x": 6,
+            "position_y": 18,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 41,
+        "fields": {
+            "position_x": 0,
+            "position_y": 20,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 42,
+        "fields": {
+            "position_x": 2,
+            "position_y": 20,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 43,
+        "fields": {
+            "position_x": 8,
+            "position_y": 20,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 44,
+        "fields": {
+            "position_x": 6,
+            "position_y": 20,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 45,
+        "fields": {
+            "position_x": 0,
+            "position_y": 22,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 46,
+        "fields": {
+            "position_x": 2,
+            "position_y": 22,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 47,
+        "fields": {
+            "position_x": 8,
+            "position_y": 22,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 48,
+        "fields": {
+            "position_x": 6,
+            "position_y": 22,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 49,
+        "fields": {
+            "position_x": 0,
+            "position_y": 24,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 50,
+        "fields": {
+            "position_x": 2,
+            "position_y": 24,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 51,
+        "fields": {
+            "position_x": 8,
+            "position_y": 24,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 52,
+        "fields": {
+            "position_x": 6,
+            "position_y": 24,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 2
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 53,
+        "fields": {
+            "position_x": 0,
+            "position_y": 0,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 1
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 54,
+        "fields": {
+            "position_x": 2,
+            "position_y": 0,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 1
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 55,
+        "fields": {
+            "position_x": 8,
+            "position_y": 0,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 1
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 56,
+        "fields": {
+            "position_x": 0,
+            "position_y": 2,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 1
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 57,
+        "fields": {
+            "position_x": 2,
+            "position_y": 2,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 1
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 58,
+        "fields": {
+            "position_x": 8,
+            "position_y": 2,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 1
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 59,
+        "fields": {
+            "position_x": 0,
+            "position_y": 4,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 1
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 60,
+        "fields": {
+            "position_x": 2,
+            "position_y": 4,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 1
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 61,
+        "fields": {
+            "position_x": 8,
+            "position_y": 4,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 1
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 62,
+        "fields": {
+            "position_x": 0,
+            "position_y": 6,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 1
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 63,
+        "fields": {
+            "position_x": 2,
+            "position_y": 6,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 1
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 64,
+        "fields": {
+            "position_x": 8,
+            "position_y": 6,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 1
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 65,
+        "fields": {
+            "position_x": 0,
+            "position_y": 0,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 66,
+        "fields": {
+            "position_x": 2,
+            "position_y": 0,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 67,
+        "fields": {
+            "position_x": 8,
+            "position_y": 0,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 68,
+        "fields": {
+            "position_x": 0,
+            "position_y": 2,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 69,
+        "fields": {
+            "position_x": 2,
+            "position_y": 2,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 70,
+        "fields": {
+            "position_x": 8,
+            "position_y": 2,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 71,
+        "fields": {
+            "position_x": 0,
+            "position_y": 4,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 72,
+        "fields": {
+            "position_x": 2,
+            "position_y": 4,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 73,
+        "fields": {
+            "position_x": 8,
+            "position_y": 4,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 74,
+        "fields": {
+            "position_x": 0,
+            "position_y": 6,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 75,
+        "fields": {
+            "position_x": 2,
+            "position_y": 6,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 76,
+        "fields": {
+            "position_x": 8,
+            "position_y": 6,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 77,
+        "fields": {
+            "position_x": 0,
+            "position_y": 8,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 78,
+        "fields": {
+            "position_x": 2,
+            "position_y": 8,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 79,
+        "fields": {
+            "position_x": 8,
+            "position_y": 8,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 80,
+        "fields": {
+            "position_x": 0,
+            "position_y": 10,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 81,
+        "fields": {
+            "position_x": 2,
+            "position_y": 10,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 82,
+        "fields": {
+            "position_x": 8,
+            "position_y": 10,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 83,
+        "fields": {
+            "position_x": 0,
+            "position_y": 12,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 84,
+        "fields": {
+            "position_x": 2,
+            "position_y": 12,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 85,
+        "fields": {
+            "position_x": 8,
+            "position_y": 12,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 86,
+        "fields": {
+            "position_x": 0,
+            "position_y": 14,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 87,
+        "fields": {
+            "position_x": 2,
+            "position_y": 14,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 88,
+        "fields": {
+            "position_x": 8,
+            "position_y": 14,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 89,
+        "fields": {
+            "position_x": 0,
+            "position_y": 16,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 90,
+        "fields": {
+            "position_x": 2,
+            "position_y": 16,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 91,
+        "fields": {
+            "position_x": 8,
+            "position_y": 16,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 92,
+        "fields": {
+            "position_x": 0,
+            "position_y": 18,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 93,
+        "fields": {
+            "position_x": 2,
+            "position_y": 18,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 94,
+        "fields": {
+            "position_x": 8,
+            "position_y": 18,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 4
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 95,
+        "fields": {
+            "position_x": 0,
+            "position_y": 0,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 3
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 96,
+        "fields": {
+            "position_x": 2,
+            "position_y": 0,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 3
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 97,
+        "fields": {
+            "position_x": 8,
+            "position_y": 0,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 3
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 98,
+        "fields": {
+            "position_x": 0,
+            "position_y": 2,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 3
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 99,
+        "fields": {
+            "position_x": 2,
+            "position_y": 2,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 3
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 100,
+        "fields": {
+            "position_x": 8,
+            "position_y": 2,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 3
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 101,
+        "fields": {
+            "position_x": 0,
+            "position_y": 4,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 3
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 102,
+        "fields": {
+            "position_x": 2,
+            "position_y": 4,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 3
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 103,
+        "fields": {
+            "position_x": 8,
+            "position_y": 4,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 3
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 104,
+        "fields": {
+            "position_x": 0,
+            "position_y": 6,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 3
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 105,
+        "fields": {
+            "position_x": 2,
+            "position_y": 6,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 3
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 106,
+        "fields": {
+            "position_x": 8,
+            "position_y": 6,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 3
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 107,
+        "fields": {
+            "position_x": 0,
+            "position_y": 0,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 108,
+        "fields": {
+            "position_x": 2,
+            "position_y": 0,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 109,
+        "fields": {
+            "position_x": 8,
+            "position_y": 0,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 110,
+        "fields": {
+            "position_x": 0,
+            "position_y": 2,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 111,
+        "fields": {
+            "position_x": 8,
+            "position_y": 4,
+            "width": 2,
+            "length": 2,
+            "kind": "space",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 112,
+        "fields": {
+            "position_x": 8,
+            "position_y": 2,
+            "width": 2,
+            "length": 2,
+            "kind": "space",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 113,
+        "fields": {
+            "position_x": 2,
+            "position_y": 2,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 114,
+        "fields": {
+            "position_x": 0,
+            "position_y": 4,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 115,
+        "fields": {
+            "position_x": 2,
+            "position_y": 4,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 116,
+        "fields": {
+            "position_x": 0,
+            "position_y": 6,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 117,
+        "fields": {
+            "position_x": 2,
+            "position_y": 6,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 118,
+        "fields": {
+            "position_x": 8,
+            "position_y": 6,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 119,
+        "fields": {
+            "position_x": 0,
+            "position_y": 8,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 120,
+        "fields": {
+            "position_x": 2,
+            "position_y": 8,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 121,
+        "fields": {
+            "position_x": 8,
+            "position_y": 8,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 122,
+        "fields": {
+            "position_x": 0,
+            "position_y": 10,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 123,
+        "fields": {
+            "position_x": 2,
+            "position_y": 10,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 124,
+        "fields": {
+            "position_x": 8,
+            "position_y": 10,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 125,
+        "fields": {
+            "position_x": 0,
+            "position_y": 12,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 126,
+        "fields": {
+            "position_x": 2,
+            "position_y": 12,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 127,
+        "fields": {
+            "position_x": 8,
+            "position_y": 12,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 128,
+        "fields": {
+            "position_x": 0,
+            "position_y": 14,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 129,
+        "fields": {
+            "position_x": 2,
+            "position_y": 14,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 130,
+        "fields": {
+            "position_x": 8,
+            "position_y": 14,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 131,
+        "fields": {
+            "position_x": 0,
+            "position_y": 16,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 132,
+        "fields": {
+            "position_x": 2,
+            "position_y": 16,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 133,
+        "fields": {
+            "position_x": 8,
+            "position_y": 16,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 134,
+        "fields": {
+            "position_x": 0,
+            "position_y": 18,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 135,
+        "fields": {
+            "position_x": 2,
+            "position_y": 18,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 136,
+        "fields": {
+            "position_x": 8,
+            "position_y": 18,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 137,
+        "fields": {
+            "position_x": 0,
+            "position_y": 20,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 138,
+        "fields": {
+            "position_x": 2,
+            "position_y": 20,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 139,
+        "fields": {
+            "position_x": 8,
+            "position_y": 20,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 6
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 140,
+        "fields": {
+            "position_x": 0,
+            "position_y": 0,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 5
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 141,
+        "fields": {
+            "position_x": 2,
+            "position_y": 0,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 5
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 142,
+        "fields": {
+            "position_x": 8,
+            "position_y": 0,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 5
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 143,
+        "fields": {
+            "position_x": 0,
+            "position_y": 2,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 5
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 144,
+        "fields": {
+            "position_x": 2,
+            "position_y": 2,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 5
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 145,
+        "fields": {
+            "position_x": 8,
+            "position_y": 2,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 5
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 146,
+        "fields": {
+            "position_x": 0,
+            "position_y": 4,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 5
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 147,
+        "fields": {
+            "position_x": 2,
+            "position_y": 4,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 5
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 148,
+        "fields": {
+            "position_x": 8,
+            "position_y": 4,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 5
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 149,
+        "fields": {
+            "position_x": 0,
+            "position_y": 6,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 5
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 150,
+        "fields": {
+            "position_x": 2,
+            "position_y": 6,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 5
+        }
+    },
+    {
+        "model": "transportation.component",
+        "pk": 151,
+        "fields": {
+            "position_x": 8,
+            "position_y": 6,
+            "width": 2,
+            "length": 2,
+            "kind": "seat",
+            "polymorphic_ctype": "34",
+            "floors_id": 5
+        }
+    }
+]
